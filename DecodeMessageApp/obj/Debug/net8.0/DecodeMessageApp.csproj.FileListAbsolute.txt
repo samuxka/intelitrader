@@ -1,0 +1,14 @@
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\bin\Debug\net8.0\DecodeMessageApp.exe
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\bin\Debug\net8.0\DecodeMessageApp.deps.json
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\bin\Debug\net8.0\DecodeMessageApp.runtimeconfig.json
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\bin\Debug\net8.0\DecodeMessageApp.dll
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\bin\Debug\net8.0\DecodeMessageApp.pdb
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\DecodeMessageApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\DecodeMessageApp.AssemblyInfoInputs.cache
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\DecodeMessageApp.AssemblyInfo.cs
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\DecodeMessageApp.csproj.CoreCompileInputs.cache
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\DecodeMessageApp.dll
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\refint\DecodeMessageApp.dll
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\DecodeMessageApp.pdb
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\DecodeMessageApp.genruntimeconfig.cache
+c:\Users\Pichau\Documents\cursos\intelitrader\DecodeMessageApp\obj\Debug\net8.0\ref\DecodeMessageApp.dll
